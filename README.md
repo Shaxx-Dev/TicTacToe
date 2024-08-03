@@ -1,5 +1,4 @@
 # TicTacToe
-# TicTacToe
 Tic Tac Toe
 This is a simple console-based Tic Tac Toe game implemented in Java. The game supports two modes of play: playing against another human player or playing against the computer. The implementation uses various object-oriented programming concepts to structure the game logic.
 
